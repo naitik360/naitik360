@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about cosmos
 - 📫 How to reach me: naitik631999@gmail.com
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: All polar bears are left handed
