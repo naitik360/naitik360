@@ -1,9 +1,13 @@
-## Hello  world 👋 , i`m Naitik
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
--🔭 I’m currently working on flutter
-- 🌱 I’m currently learning machine learning
-- 👯 I’m looking to collaborate on flutter application projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about cosmos
-- 📫 How to reach me: naitik631999@gmail.com
-- 😄 Pronouns: he/him 
+### Hello World, I'm Anna  👋
+
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
+
+## 
+- ✍ You can find my projects here [portfolio]
+- 🔭 I’m currently working on my first book.
+- 🌱 I’m currently learning React Native and Azure
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about ... Anything
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
