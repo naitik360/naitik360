@@ -1,6 +1,6 @@
 ### Hello World, I'm Naitik 👋
 
- <img align="right" alt="GIF" src="https://media2.giphy.com/media/u2pmTWUi0MXjyrMaVj/200w.webp?cid=ecf05e4736iwhlsfcip1y8fo5fgojxjzyznvwoqlhj4tszul&rid=200w.webp&ct=g" width="300" height="320" />
+ <img align="right" alt="GIF" src="https://media0.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e47p239gk9o5wdr5z2zzsq51fd70wvm4498s60weccs&rid=giphy.gif&ct=g" width="300" height="320" />
 
 
 ## 
