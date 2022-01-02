@@ -1,13 +1,12 @@
-### Hello World, I'm Anna  👋
+### Hello World, I'm Naitik 👋
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 ## 
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
+- 🔭 I’m currently working on my flutter.
+- 🌱 I’m currently learning Machine learning.
+- 👯 I’m looking to collaborate flutter projects.
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: All polar bears are left handed.
