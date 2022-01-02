@@ -1,6 +1,6 @@
 ### Hello World, I'm Naitik 👋
 
- <img align="right" alt="GIF" src="https://assets6.lottiefiles.com/render/kph9cv85.mp4" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://media2.giphy.com/media/u2pmTWUi0MXjyrMaVj/200w.webp?cid=ecf05e4736iwhlsfcip1y8fo5fgojxjzyznvwoqlhj4tszul&rid=200w.webp&ct=g" width="300" height="320" />
 
 
 ## 
