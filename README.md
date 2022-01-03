@@ -1,6 +1,6 @@
 ### Hello World, I'm Naitik 👋
 
- <img align="right" alt="GIF" src="https://media0.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e47p239gk9o5wdr5z2zzsq51fd70wvm4498s60weccs&rid=giphy.gif&ct=g" width="300" height="320" />
+ <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="300" height="320" />
 
 
 ## 
