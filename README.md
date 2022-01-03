@@ -4,9 +4,10 @@
 
 
 ## 
-- 🔭 I’m currently working on my flutter.
+- 🔭 I’m currently working on flutter.
 - 🌱 I’m currently learning Machine learning.
-- 👯 I’m looking to collaborate flutter projects.
+- 👯 I’m looking to collaborate in flutter projects.
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: All polar bears are left handed.
+- ✨ Eat ↔️ Code ↔️ Sleep 
