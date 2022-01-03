@@ -1,6 +1,6 @@
 ### Hello World, I'm Naitik 👋
 
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" width="350" height="300" />
+ <img align="right" alt="GIF" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" width="350" height="300" />
 
 
 ## 
