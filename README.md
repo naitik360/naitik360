@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsRaNi1&show_icons=true&theme=aura)<br>
 ### Hello World, I'm Naitik 👋
 
  <img align="right" alt="GIF" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" width="370" height="280" />
