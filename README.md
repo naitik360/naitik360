@@ -16,4 +16,3 @@
 ![Naitik's GitHub stats](https://github-readme-stats.vercel.app/api?username=naitik360&show_icons=true&theme=aura)<br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naitik360&layout=compact&theme=aura)
