@@ -1,4 +1,3 @@
-![Naitik's GitHub stats](https://github-readme-stats.vercel.app/api?username=naitik360&show_icons=true&theme=aura)<br>
 ### Hello World, I'm Naitik 👋
 
  <img align="right" alt="GIF" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" width="370" height="280" />
@@ -12,3 +11,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: All polar bears are left handed.
 - ✨ Eat ↔️ Code ↔️ Sleep 
+
+
+![Naitik's GitHub stats](https://github-readme-stats.vercel.app/api?username=naitik360&show_icons=true&theme=aura)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naitik360&layout=compact&theme=aura)
