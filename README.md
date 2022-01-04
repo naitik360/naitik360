@@ -16,3 +16,11 @@
 ![Naitik's GitHub stats](https://github-readme-stats.vercel.app/api?username=naitik360&show_icons=true&theme=aura)<br>
 
 
+<h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
+
+
