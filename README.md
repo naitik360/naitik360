@@ -12,7 +12,7 @@
 - ✨ Eat ↔️ Code ↔️ Sleep 
 
 
-![Naitik's GitHub stats](https://github-readme-stats.vercel.app/api?username=naitik360&show_icons=true&theme=aura)<br>
+
 
 
 <h2 align='center'><i><a href="https://github.com/naitik360/github-readme-activity-graph">Activity Graph 📈</i></h2>
