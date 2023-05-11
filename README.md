@@ -13,12 +13,3 @@
 
 
 
-
-
-<p align="center">
-<a href="https://github.com/naitik360/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=naitik360&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
-
-
