@@ -12,5 +12,9 @@
 - ⚡ Fun fact: All polar bears are left handed.
 - ✨ Eat ↔️ Code ↔️ Sleep 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/naitik360/count.svg" />
+</p>
 
 
