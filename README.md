@@ -38,15 +38,6 @@
 
 ---
 
-### 🧰 Featured Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| **Product Catalog API** | Spring Boot, MySQL, REST, DTOs | RESTful backend for managing products with clean service-controller separation |
-| **Teaching & Learning Portal** | Spring Boot, Swagger UI, MySQL | Admin/user dashboards to manage courses and resources |
-| **URL Shortener** | Java, Spring Boot | Generates short, shareable links from long URLs |
-| **Financial LogCat Tool** | Kotlin, Android, WorkManager | Backend-controlled logcat uploader for crash reduction (Fi.money) |
-
 ---
 
 ### 💻 Coding Profiles
