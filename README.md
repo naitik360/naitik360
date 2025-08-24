@@ -2,7 +2,7 @@
  <img align="right" alt="GIF" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" width="350" height="280" />
 
 <h1 align="center">Hi 👋, I'm Naitik Verma</h1>
-<h3 align="center">Full Stack Developer | Spring Boot + React | Flutter Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Java | Spring Boot | React.Js </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Java+%7C+Spring+Boot+%7C+ReactJS;Flutter+%7C+Full+Stack+Developer;Clean+Code+%7C+Problem+Solver+%7C+Optimist" alt="Typing SVG" />
@@ -31,7 +31,7 @@
 `Spring Boot` | `Spring MVC` | `Spring Security` | `REST APIs` | `MySQL` | `JPA` | `Hibernate`
 
 **Frontend:**  
-`ReactJS` | `HTML` | `CSS` | `Flutter`
+`ReactJS` | `HTML` | `CSS` | `JavaScript` | `Flutter`
 
 **Tools & Platforms:**  
 `VS Code` | `IntelliJ IDEA` | `Postman` | `Docker` | `Git` | `GitLab` | `Android Studio`
@@ -56,17 +56,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naitik360&show_icons=true&theme=react&hide_title=false&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naitik360&theme=react" />
-</p>
-
----
-
 ⭐ **Thank you for visiting!**  
 If you like my work, feel free to ⭐ star some of my repos and connect with me.
-
-
-### 👀 Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=naitik360&label=Profile%20Views&color=0e75b6&style=flat)
