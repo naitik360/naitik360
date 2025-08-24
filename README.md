@@ -68,3 +68,5 @@
 If you like my work, feel free to ⭐ star some of my repos and connect with me.
 
 
+### 👀 Profile Views
+![Visitor Count](https://komarev.com/ghpvc/?username=naitik360&label=Profile%20Views&color=0e75b6&style=flat)
